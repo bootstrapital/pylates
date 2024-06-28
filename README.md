@@ -2,7 +2,7 @@
 
 
 ### Think of it as Wordpress for SaaS
-Guided by our *[Slender Stack](slenderstack.com)* philosophy, we're removing technical hurdles and unleash the next wave of founders.
+Guided by our *[Slender Stack](slenderstack.com)* philosophy, we're removing technical hurdles to unleash the next wave of founders.
 
 ### Product Focused
 Our goal is to help solopreneurs, indie hackers, bootstrappers, etc. go from idea to first customer in a weekend.
