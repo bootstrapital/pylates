@@ -8,7 +8,7 @@ Guided by our *[Slender Stack](slenderstack.com)* philosophy, we're removing tec
 Our goal is to help solopreneurs, indie hackers, bootstrappers, etc. go from idea to first customer in a weekend.
 
 ### Low-Code Python
-This is an opinionated stack that is powered by [Hyperdiv](https://hyperdiv.io) to vastly reduce boilerplate.
+This is an opinionated stack powered by [Hyperdiv](https://hyperdiv.io) to vastly reduce boilerplate.
 
 ### Batteries Included
 We've purposefully integrated services that enable launching quickly without sacrificing scalability.
